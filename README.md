@@ -36,7 +36,7 @@ The **Smart Bill Discount Calculator** is a Python-based billing system that cal
 3. Run the script:
 
    ```bash
-
+python bill_discount_calculator.py
    ```
 4. Enter item details and enjoy an automatic, colorful billing experience!
 
