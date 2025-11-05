@@ -1,0 +1,16 @@
+=== SuperShop Bill Receipt ===
+Customer Name : vijay
+Phone Number  : 7256789345
+Date & Time   : 05-11-2025 10:43:18
+-----------------------------
+sugar : ₹500.00
+coffee powder : ₹530.00
+milk : ₹65.00
+-----------------------------
+Total Amount  : ₹1095.00
+Discount      : ₹109.50
+GST (5%)      : ₹49.28
+Final Amount  : ₹1034.78
+-----------------------------
+😊 You got a 10% discount!
+Thank you for shopping with us! 🛍️
